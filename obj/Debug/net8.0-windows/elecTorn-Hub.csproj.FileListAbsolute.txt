@@ -1,0 +1,15 @@
+D:\CODING\C#\elecTorn-Hub\bin\Debug\net8.0-windows\elecTorn-Hub.exe
+D:\CODING\C#\elecTorn-Hub\bin\Debug\net8.0-windows\elecTorn-Hub.deps.json
+D:\CODING\C#\elecTorn-Hub\bin\Debug\net8.0-windows\elecTorn-Hub.runtimeconfig.json
+D:\CODING\C#\elecTorn-Hub\bin\Debug\net8.0-windows\elecTorn-Hub.dll
+D:\CODING\C#\elecTorn-Hub\bin\Debug\net8.0-windows\elecTorn-Hub.pdb
+D:\CODING\C#\elecTorn-Hub\obj\Debug\net8.0-windows\elecTorn-Hub.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\C#\elecTorn-Hub\obj\Debug\net8.0-windows\elecTorn-Hub.AssemblyInfoInputs.cache
+D:\CODING\C#\elecTorn-Hub\obj\Debug\net8.0-windows\elecTorn-Hub.AssemblyInfo.cs
+D:\CODING\C#\elecTorn-Hub\obj\Debug\net8.0-windows\elecTorn-Hub.csproj.CoreCompileInputs.cache
+D:\CODING\C#\elecTorn-Hub\obj\Debug\net8.0-windows\elecTorn-Hub.sourcelink.json
+D:\CODING\C#\elecTorn-Hub\obj\Debug\net8.0-windows\elecTorn-Hub.dll
+D:\CODING\C#\elecTorn-Hub\obj\Debug\net8.0-windows\refint\elecTorn-Hub.dll
+D:\CODING\C#\elecTorn-Hub\obj\Debug\net8.0-windows\elecTorn-Hub.pdb
+D:\CODING\C#\elecTorn-Hub\obj\Debug\net8.0-windows\elecTorn-Hub.genruntimeconfig.cache
+D:\CODING\C#\elecTorn-Hub\obj\Debug\net8.0-windows\ref\elecTorn-Hub.dll
