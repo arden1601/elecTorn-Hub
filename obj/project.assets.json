@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yitzh\\OneDrive\\Desktop\\JunPro\\elecTorn-Hub\\elecTorn-Hub.csproj",
+      "projectUniqueName": "D:\\Files\\elecTorn-Hub\\elecTorn-Hub.csproj",
       "projectName": "elecTorn-Hub",
-      "projectPath": "C:\\Users\\yitzh\\OneDrive\\Desktop\\JunPro\\elecTorn-Hub\\elecTorn-Hub.csproj",
+      "projectPath": "D:\\Files\\elecTorn-Hub\\elecTorn-Hub.csproj",
       "packagesPath": "C:\\Users\\yitzh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yitzh\\OneDrive\\Desktop\\JunPro\\elecTorn-Hub\\obj\\",
+      "outputPath": "D:\\Files\\elecTorn-Hub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yitzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
