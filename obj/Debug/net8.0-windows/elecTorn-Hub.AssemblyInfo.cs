@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("elecTorn-Hub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0016cd3785804e760bba9d0f196a3ae7ab61439e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc50fc9ef6dad275b5dab14a41f5ec6e6dbe3b40")]
 [assembly: System.Reflection.AssemblyProductAttribute("elecTorn-Hub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("elecTorn-Hub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
